@@ -883,14 +883,14 @@ a:hover{
 }
 
 .sae14-banner{
-    background-image: url("/Images/sae\ 14\ général.png");
+    background-image: url("images/sae-14-général 2.png");
 }
 
 .sae14-banner{
     background:
     linear-gradient(rgba(0,0,0,0.4),
     rgba(0,0,0,0.4)),
-    url("/Images/sae\ 14\ général\ 2.png");
+    url("images/sae-14-général 2.png");
 
     background-size: cover;
     background-repeat: no-repeat;
