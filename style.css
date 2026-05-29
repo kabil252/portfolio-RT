@@ -618,7 +618,7 @@ url("/Images/Bilan\ des\ compétences.png");
         rgba(0,0,0,0.40),
         rgba(0,0,0,0.55)
     ),
-    url("/Images/sae11\ général.png");
+    url("images/sae11-général.png");
 
     background-size: cover;
 
