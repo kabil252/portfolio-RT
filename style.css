@@ -899,13 +899,13 @@ a:hover{
 }
 
 .sae15-banner{
-
     background-image:
     linear-gradient(
         rgba(0,0,0,0.25),
         rgba(0,0,0,0.25)
     ),
-      url("images/sae-15-général.png");
+    url("images/sae-15-général.png");
+
 
     background-size: cover;
     background-repeat: no-repeat;
